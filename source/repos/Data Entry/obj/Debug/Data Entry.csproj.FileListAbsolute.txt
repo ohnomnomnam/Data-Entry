@@ -1,0 +1,10 @@
+C:\Users\npham\source\repos\Data Entry\bin\Debug\Data Entry.exe.config
+C:\Users\npham\source\repos\Data Entry\bin\Debug\Data Entry.exe
+C:\Users\npham\source\repos\Data Entry\bin\Debug\Data Entry.pdb
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data Entry.csproj.AssemblyReference.cache
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data_Entry.Form1.resources
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data_Entry.Properties.Resources.resources
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data Entry.csproj.GenerateResource.cache
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data Entry.csproj.CoreCompileInputs.cache
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data Entry.exe
+C:\Users\npham\source\repos\Data Entry\obj\Debug\Data Entry.pdb
